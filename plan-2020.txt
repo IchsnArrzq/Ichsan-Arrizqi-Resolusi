@@ -4,3 +4,5 @@ Plan 2020
 3.Menguasai Javascript
 4.Menguasai React Js
 5.Menguasai Git
+6.Bekerja Sama Dengan Programmer Lainnya
+7.Mencari Client
