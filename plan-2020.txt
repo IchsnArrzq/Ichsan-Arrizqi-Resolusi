@@ -1,0 +1,6 @@
+Plan 2020
+1.Menguasai Laravel
+2.Menguasai PHP
+3.Menguasai Javascript
+4.Menguasai React Js
+5.Menguasai Git
