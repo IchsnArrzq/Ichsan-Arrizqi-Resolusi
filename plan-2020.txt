@@ -1,6 +1,6 @@
 Plan 2020
-1.Menguasai Laravel
-2.Menguasai React Js
-3.Menguasai Git
-4.Bekerja Sama Dengan Programmer Lainnya
-5.Mencari Client
+-Menguasai Laravel
+-Menguasai React Js
+-Menguasai Git
+-Bekerja Sama Dengan Programmer Lainnya
+-Mencari Client
