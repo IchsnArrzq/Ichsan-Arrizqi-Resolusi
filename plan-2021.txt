@@ -7,3 +7,4 @@ Plan 2021
   ^sonic
   ^caferacer
   ^satria fu
+-Beli Laptop
