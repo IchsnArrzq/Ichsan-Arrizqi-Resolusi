@@ -4,4 +4,6 @@ Plan 2021
   ^i3 10100f,gtx 1650s,2x8,128gb,1tb,msi
 -Beli Motor
   ^sonic
+  ^mio
   ^satria fu
+-Beli Laptop
