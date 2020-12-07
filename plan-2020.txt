@@ -4,3 +4,4 @@ Plan 2020
 -Menguasai Git
 -Bekerja Sama Dengan Programmer Lainnya
 -Mencari Client
+-Menghasilkan Uang
