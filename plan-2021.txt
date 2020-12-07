@@ -2,8 +2,9 @@ Plan 2021
 -Melamar Kerja Di BliBli.com
 -Rakit Pc
   ^i3 10100f,gtx 1650s,2x8,128gb,1tb,msi
+  ^r5 3600,rtx 2060,2x4,128gb,asrock
 -Beli Motor
   ^sonic
-  ^mio
+  ^caferacer
   ^satria fu
 -Beli Laptop
