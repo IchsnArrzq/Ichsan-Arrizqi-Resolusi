@@ -9,3 +9,4 @@ Plan 2021
   ^caferacer
   ^satria fu
 -Beli Laptop
+-memukul wanita
